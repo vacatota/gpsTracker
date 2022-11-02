@@ -1,0 +1,7 @@
+npm i express ejs-mate socket.io
+
+Video: 19:09
+
+
+restaurar nomedmon
+nodemon rs
